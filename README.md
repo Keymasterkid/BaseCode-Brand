@@ -12,7 +12,7 @@ This repository contains official branding assets including logos and badges use
 
 ### Logos
 
-![BaseCode Logo](./Logos/BaseCode%20Logo.png)
+![BaseCode Logo](./Logoss/BaseCode%20Logo.png)
 
 ### Site Badges
 
