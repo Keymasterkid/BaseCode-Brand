@@ -12,16 +12,16 @@ This repository contains official branding assets including logos and badges use
 
 ### Logos
 
-![BaseCode Logo](./logos/BaseCode%20Logo.png)
+![BaseCode Logo](./Logos/BaseCode%20Logo.png)
 
 ### Site Badges
 
 | Version | Badge |
 |--------|-------|
-| v1     | ![v1](./site-badges/Site%20managed%20by%20BaseCode%21.png) |
-| v2     | ![v2](./site-badges/Site%20managed%20by%20BaseCode%22.png) |
-| v3     | ![v3](./site-badges/Site%20managed%20by%20BaseCode%23.png) |
-| v4     | ![v4](./site-badges/Site%20managed%20by%20BaseCode%24.png) |
+| v1     | ![v1](./Site%20Badges/Site%20managed%20by%20BaseCode%21.png) |
+| v2     | ![v2](./Site%20Badges/Site%20managed%20by%20BaseCode%22.png) |
+| v3     | ![v3](./Site%20Badges/Site%20managed%20by%20BaseCode%23.png) |
+| v4     | ![v4](./Site%20Badges/Site%20managed%20by%20BaseCode%24.png) |
 
 ## Legal Notice
 
